@@ -1,4 +1,4 @@
-# 50-FrontEnd-Projects
+# Fifty-FrontEnd-Projects
 
 Download VS code.
 Download Live server extension in VS code.

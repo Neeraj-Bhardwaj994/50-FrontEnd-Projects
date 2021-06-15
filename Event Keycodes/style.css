@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
 * {
   box-sizing: border-box;
 }
 
 body {
   background-color: #e1e1e1;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Segoe UI';
   display: flex;
   align-items: center;
   justify-content: center;
